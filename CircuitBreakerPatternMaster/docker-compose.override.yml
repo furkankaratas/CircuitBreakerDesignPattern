@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  coreappwithdocker:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:83
+      - ASPNETCORE_HTTPS_PORT=44372
+    ports:
+      - "39265:83"
+      - "44372:443"
+    volumes:
+      - ~/.aspnet/https:/root/.aspnet/https:ro
+      - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro

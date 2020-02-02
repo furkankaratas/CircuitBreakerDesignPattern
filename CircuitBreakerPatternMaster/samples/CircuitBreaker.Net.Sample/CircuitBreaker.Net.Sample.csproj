@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\CircuitBreaker.Net\CircuitBreaker.Net.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CircuitBreaker.Net" Version="0.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dockerfile.config" />
+    <None Remove="Dockerfile" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8B79E0FA-7FC5-4FC2-98EA-95A7E084DF3B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{5384C2AD-EEE0-42AA-AC12-1B71D8FD1166}"
+	ProjectSection(SolutionItems) = preProject
+		build\build.bat = build\build.bat
+		build\build.fsx = build\build.fsx
+		build\build.sh = build\build.sh
+		build\CircuitBreaker.Net.nuspec = build\CircuitBreaker.Net.nuspec
+		build\CircuitBreaker.Net.Source.nuspec = build\CircuitBreaker.Net.Source.nuspec
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{69F4F939-5D64-4CE7-98B2-85D824D6E911}"
+	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircuitBreaker.Net", "src\CircuitBreaker.Net\CircuitBreaker.Net.csproj", "{889A1DFA-7FF1-40F0-ABDE-425899DB6092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircuitBreaker.Net.Sample", "samples\CircuitBreaker.Net.Sample\CircuitBreaker.Net.Sample.csproj", "{1618042E-4DEE-4BA0-BE7E-6EE10CF9803C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircuitBreaker.Net.Tests", "tests\CircuitBreaker.Net.Tests\CircuitBreaker.Net.Tests.csproj", "{5BC87741-2531-4401-8EDF-59348F2662E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889A1DFA-7FF1-40F0-ABDE-425899DB6092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889A1DFA-7FF1-40F0-ABDE-425899DB6092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889A1DFA-7FF1-40F0-ABDE-425899DB6092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889A1DFA-7FF1-40F0-ABDE-425899DB6092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1618042E-4DEE-4BA0-BE7E-6EE10CF9803C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1618042E-4DEE-4BA0-BE7E-6EE10CF9803C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1618042E-4DEE-4BA0-BE7E-6EE10CF9803C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1618042E-4DEE-4BA0-BE7E-6EE10CF9803C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC87741-2531-4401-8EDF-59348F2662E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC87741-2531-4401-8EDF-59348F2662E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC87741-2531-4401-8EDF-59348F2662E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC87741-2531-4401-8EDF-59348F2662E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8528F995-4402-440D-91FB-9F5813E386F3}
+	EndGlobalSection
+EndGlobal

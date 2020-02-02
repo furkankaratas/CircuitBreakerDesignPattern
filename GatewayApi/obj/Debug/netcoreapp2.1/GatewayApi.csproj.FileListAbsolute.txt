@@ -1,0 +1,5 @@
+/Users/furkankaratas/Desktop/ApiGatewayProject/ApiGateway1/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.csprojAssemblyReference.cache
+/Users/furkankaratas/Desktop/ApiGatewayProject/ApiGateway1/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.RazorAssemblyInfo.cache
+/Users/furkankaratas/Desktop/ApiGatewayProject/ApiGateway1/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.RazorAssemblyInfo.cs
+/Users/furkankaratas/Desktop/ApiGatewayProject/ApiGateway1/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.AssemblyInfoInputs.cache
+/Users/furkankaratas/Desktop/ApiGatewayProject/ApiGateway1/GatewayApi/obj/Debug/netcoreapp2.1/GatewayApi.AssemblyInfo.cs

@@ -1,0 +1,7 @@
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/bin/Debug/net45/CircuitBreaker.Net.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/bin/Debug/net45/CircuitBreaker.Net.pdb
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/obj/Debug/net45/CircuitBreaker.Net.csprojAssemblyReference.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/obj/Debug/net45/CircuitBreaker.Net.AssemblyInfoInputs.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/obj/Debug/net45/CircuitBreaker.Net.AssemblyInfo.cs
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/obj/Debug/net45/CircuitBreaker.Net.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/src/CircuitBreaker.Net/obj/Debug/net45/CircuitBreaker.Net.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "CircuitBreaker.Net.Sample/1.0.0": {
+        "dependencies": {
+          "CircuitBreaker.Net": "0.7.0"
+        },
+        "runtime": {
+          "CircuitBreaker.Net.Sample.dll": {}
+        }
+      },
+      "CircuitBreaker.Net/0.7.0": {
+        "runtime": {
+          "CircuitBreaker.Net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CircuitBreaker.Net.Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CircuitBreaker.Net/0.7.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.deps.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.runtimeconfig.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.runtimeconfig.dev.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.pdb
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.pdb
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.csprojAssemblyReference.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.AssemblyInfoInputs.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.AssemblyInfo.cs
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.csproj.CopyComplete
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/samples/CircuitBreaker.Net.Sample/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Sample.pdb

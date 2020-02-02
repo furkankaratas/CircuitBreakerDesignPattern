@@ -1,0 +1,16 @@
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.deps.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.runtimeconfig.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.runtimeconfig.dev.json
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.pdb
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/bin/Debug/netcoreapp2.0/CircuitBreaker.Net.pdb
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.csprojAssemblyReference.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.AssemblyInfoInputs.cache
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.AssemblyInfo.cs
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.csproj.CopyComplete
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.dll
+/Users/furkankaratas/Downloads/CircuitBreaker.Net-master/tests/CircuitBreaker.Net.Tests/obj/Debug/netcoreapp2.0/CircuitBreaker.Net.Tests.pdb
